@@ -9,9 +9,10 @@ class Player {
 public:
     string name;
     string position;
+    string opponent;
     Stats stats;
 
-    Player(const string& n, const string& pos, const Stats& s);
+    Player(const string& n, const string& pos,const string& opp, const Stats& s);
 };
 
 #endif // PLAYER_H

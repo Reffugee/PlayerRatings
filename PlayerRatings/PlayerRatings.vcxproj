@@ -128,8 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AutomatedRating.cpp" />
+    <ClCompile Include="DefenderRating.cpp" />
+    <ClCompile Include="ForwardRating.cpp" />
+    <ClCompile Include="GoalkeeperRating.cpp" />
+    <ClCompile Include="MidfielderRating.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PlayerLoader.cpp" />
     <ClCompile Include="Rating.cpp" />
     <ClCompile Include="RatingManager.cpp" />
     <ClCompile Include="Stats.cpp" />
@@ -137,7 +142,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AutomatedRating.h" />
+    <ClInclude Include="DefenderRating.h" />
+    <ClInclude Include="ForwardRating.h" />
+    <ClInclude Include="GoalkeeperRating.h" />
+    <ClInclude Include="MidfielderRating.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerLoader.h" />
     <ClInclude Include="Rating.h" />
     <ClInclude Include="RatingManager.h" />
     <ClInclude Include="Stats.h" />

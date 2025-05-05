@@ -1,14 +1,15 @@
-#include "AutomatedRating.h"
+// DefenderRating.cpp
+#include "DefenderRating.h"
 
-double AutomatedRating::calculateRating(const Player& p) const {
+double DefenderRating::calculateRating(const Player& p) const {
     double baseline = 6.0;
 
     const Stats& s = p.stats;
 
     double positives =
         s.goals * 1.0 +
-        s.assists * 0.6 +
-        s.tackles * 0.2 +
+        s.assists * 0.7 +
+        s.tackles * 0.3 +
         s.keyPasses * 0.4 +
         s.successfulDribbles * 0.2 +
         s.finalthirdpass * 0.1 +
@@ -20,13 +21,13 @@ double AutomatedRating::calculateRating(const Player& p) const {
 
     double negatives =
         s.badPasses * 0.2 +
-        s.fouls * 0.3 +
+        s.fouls * 0.5 +
         s.offsides * 0.1 +
-        s.yellowCards * 0.6 +
+        s.yellowCards * 0.8 +
         s.redCards * 1.5 +
         s.ownGoals * 1.0 +
-        s.unsuccessfulDribbles * 0.1;
-
+        s.unsuccessfulDribbles * 0.3;
+    
     double rating = baseline + positives - negatives;
 
     if (rating < 1.0) rating = 1.0;
@@ -34,5 +35,3 @@ double AutomatedRating::calculateRating(const Player& p) const {
 
     return rating;
 }
-
-
