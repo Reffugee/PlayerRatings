@@ -1,44 +1,224 @@
-name,position,opponent,goals,assists,tackles,keyPasses,successfulDribbles,finalthirdpass,progressivecarries,badPasses,fouls,offsides,yellowCards,redCards,ownGoals,unsuccessfulDribbles,interceptions,clearances,aerialDuelsWon,blocks,saves,cleanSheets,crossesStopped,goalsConceded,punchesMissed
-Luca Rossi,Forward,AC Milan,0,0,0,1,0,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Juventus,0,0,1,1,0,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Inter Milan,0,0,0,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,AS Roma,0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Napoli,0,0,0,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Lazio,1,1,1,2,1,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Torino,2,0,1,3,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Udinese,2,1,0,2,2,0,0,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Fiorentina,1,2,0,3,2,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-Luca Rossi,Forward,Sampdoria,2,1,0,3,3,0,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+name,position,opponent,date,goals,assists,tackles,keyPasses,successfulDribbles,finalthirdpass,progressivecarries,badPasses,fouls,offsides,yellowCards,redCards,ownGoals,unsuccessfulDribbles,interceptions,clearances,aerialDuelsWon,blocks,saves,cleanSheets,crossesStopped,goalsConceded,punchesMissed
+Luca Rossi,Forward,AC Milan,2025-05-21,0,0,0,1,0,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Juventus,2025-05-14,0,0,1,1,0,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Inter Milan,2025-05-07,0,0,0,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,AS Roma,2025-04-30,0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Napoli,2025-04-23,0,0,0,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Lazio,2025-04-16,1,1,1,2,1,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Torino,2025-04-09,2,0,1,3,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Udinese,2025-04-02,2,1,0,2,2,0,0,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Fiorentina,2025-03-26,1,2,0,3,2,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Sampdoria,2025-03-19,2,1,0,3,3,0,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 
-Marco Bianchi,Midfielder,AC Milan,0,0,1,1,0,0,1,5,2,1,1,0,0,0,1,1,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Juventus,0,1,1,2,0,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Inter Milan,0,0,2,3,1,1,1,3,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,AS Roma,1,0,1,2,0,1,1,4,1,1,0,0,0,0,1,2,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Napoli,0,0,1,1,0,1,1,5,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Lazio,1,1,1,1,0,0,1,4,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Torino,0,1,1,2,1,0,1,4,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Udinese,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Fiorentina,0,1,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
-Marco Bianchi,Midfielder,Sampdoria,1,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,AC Milan,2025-05-21,0,0,1,1,0,0,1,5,2,1,1,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Juventus,2025-05-14,0,1,1,2,0,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Inter Milan,2025-05-07,0,0,2,3,1,1,1,3,1,0,0,0,0,1,2,1,0,0,0,0,0,0,0
+Marco Bianchi,Midfielder,AS Roma,2025-04-30,1,0,1,2,0,1,1,4,1,1,0,0,0,0,1,2,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Napoli,2025-04-23,0,0,1,1,0,1,1,5,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Lazio,2025-04-16,1,1,1,1,0,0,1,4,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Torino,2025-04-09,0,1,1,2,1,0,1,4,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Udinese,2025-04-02,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Fiorentina,2025-03-26,0,1,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Sampdoria,2025-03-19,1,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
 
-Alessandro Verdi,Defender,AC Milan,0,0,3,0,0,0,0,5,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
-Alessandro Verdi,Defender,Juventus,0,0,4,0,0,0,0,4,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
-Alessandro Verdi,Defender,Inter Milan,0,0,5,0,0,0,0,3,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
-Alessandro Verdi,Defender,AS Roma,0,0,5,0,0,0,0,2,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
-Alessandro Verdi,Defender,Napoli,0,0,6,0,0,0,0,2,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
-Alessandro Verdi,Defender,Lazio,0,0,6,0,0,0,0,2,2,1,0,0,0,2,4,2,1,1,0,0,0,0,0
-Alessandro Verdi,Defender,Torino,0,0,7,0,0,0,0,2,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
-Alessandro Verdi,Defender,Udinese,0,0,6,1,0,0,0,3,1,3,0,0,1,1,5,3,2,3,0,0,0,0,0
-Alessandro Verdi,Defender,Fiorentina,0,0,7,2,0,0,0,3,2,1,0,0,0,1,4,3,2,2,0,0,0,0,0
-Alessandro Verdi,Defender,Sampdoria,0,0,7,2,0,0,0,3,1,1,1,0,0,1,5,3,2,3,0,0,0,0,0
+Alessandro Verdi,Defender,AC Milan,2025-05-21,0,0,3,0,0,0,0,5,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Juventus,2025-05-14,0,0,4,0,0,0,0,4,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Inter Milan,2025-05-07,0,0,5,0,0,0,0,3,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,AS Roma,2025-04-30,0,0,5,0,0,0,0,2,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Napoli,2025-04-23,0,0,6,0,0,0,0,2,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Lazio,2025-04-16,0,0,6,0,0,0,0,2,2,1,0,0,0,2,4,2,1,1,0,0,0,0,0
+Alessandro Verdi,Defender,Torino,2025-04-09,0,0,7,0,0,0,0,2,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
+Alessandro Verdi,Defender,Udinese,2025-04-02,0,0,6,1,0,0,0,3,1,3,0,0,1,1,5,3,2,3,0,0,0,0,0
+Alessandro Verdi,Defender,Fiorentina,2025-03-26,0,0,7,2,0,0,0,3,2,1,0,0,0,1,4,3,2,2,0,0,0,0,0
+Alessandro Verdi,Defender,Sampdoria,2025-03-19,0,0,7,2,0,0,0,3,1,1,1,0,0,1,5,3,2,3,0,0,0,0,0
 
-Gianluca Moro,Goalkeeper,AC Milan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0
-Gianluca Moro,Goalkeeper,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0
-Gianluca Moro,Goalkeeper,Inter Milan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0
-Gianluca Moro,Goalkeeper,AS Roma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
-Gianluca Moro,Goalkeeper,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0
-Gianluca Moro,Goalkeeper,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0
-Gianluca Moro,Goalkeeper,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0
-Gianluca Moro,Goalkeeper,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0
-Gianluca Moro,Goalkeeper,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1,0
-Gianluca Moro,Goalkeeper,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1,0
+Gianluca Moro,Goalkeeper,AC Milan,2025-05-21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0
+Gianluca Moro,Goalkeeper,Juventus,2025-05-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0
+Gianluca Moro,Goalkeeper,Inter Milan,2025-05-07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0
+Gianluca Moro,Goalkeeper,AS Roma,2025-04-30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
+Gianluca Moro,Goalkeeper,Napoli,2025-04-23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0
+Gianluca Moro,Goalkeeper,Lazio,2025-04-16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0
+Gianluca Moro,Goalkeeper,Torino,2025-04-09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0
+Gianluca Moro,Goalkeeper,Udinese,2025-04-02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0
+Gianluca Moro,Goalkeeper,Fiorentina,2025-03-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1,0
+Gianluca Moro,Goalkeeper,Sampdoria,2025-03-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1,0
+
+Francesco Esposito,Forward,AS Roma,2025-01-01,0,0,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Napoli,2025-01-08,1,1,1,2,1,1,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Lazio,2025-01-15,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Torino,2025-01-22,1,0,1,3,1,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Udinese,2025-01-29,2,1,0,2,2,1,1,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Fiorentina,2025-02-05,0,2,0,3,2,1,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Sampdoria,2025-02-12,1,1,0,3,3,1,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,AC Milan,2025-02-19,0,0,1,2,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Juventus,2025-02-26,1,0,0,1,0,0,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Inter Milan,2025-03-05,1,1,0,2,1,1,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,AS Roma,2025-03-12,0,0,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Napoli,2025-03-19,2,0,1,3,1,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Lazio,2025-03-26,0,1,0,2,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Torino,2025-04-02,1,1,0,3,2,1,1,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Udinese,2025-04-09,1,0,0,2,1,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Fiorentina,2025-04-16,2,1,0,3,2,1,1,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesco Esposito,Forward,Sampdoria,2025-04-23,1,0,1,3,3,1,1,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Matteo Ricci,Midfielder,AS Roma,2025-01-01,1,0,1,2,0,1,1,2,1,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Napoli,2025-01-08,0,0,3,1,0,1,2,4,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Lazio,2025-01-15,1,1,2,1,0,0,1,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Torino,2025-01-22,0,1,1,2,1,1,2,3,1,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Udinese,2025-01-29,0,0,2,2,1,0,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Fiorentina,2025-02-05,1,1,1,3,1,1,1,4,2,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Sampdoria,2025-02-12,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,AC Milan,2025-02-19,1,0,2,3,1,0,1,5,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Juventus,2025-02-26,0,1,3,2,0,0,2,4,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Inter Milan,2025-03-05,0,0,2,3,1,1,1,3,2,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,AS Roma,2025-03-12,1,0,1,2,0,1,1,2,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Napoli,2025-03-19,0,0,2,1,0,1,2,5,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Lazio,2025-03-26,1,1,2,1,0,0,1,4,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Torino,2025-04-02,0,1,1,2,1,0,1,4,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Udinese,2025-04-09,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Fiorentina,2025-04-16,1,0,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Matteo Ricci,Midfielder,Sampdoria,2025-04-23,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+
+Simone Conti,Midfielder,AS Roma,2025-01-01,1,0,3,2,0,1,1,2,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Napoli,2025-01-08,0,1,2,1,1,1,2,4,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Lazio,2025-01-15,1,0,1,1,0,0,1,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Simone Conti,Midfielder,Torino,2025-01-22,0,1,2,2,1,1,2,3,1,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Simone Conti,Midfielder,Udinese,2025-01-29,1,0,2,2,1,0,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Fiorentina,2025-02-05,0,1,1,3,1,1,1,4,2,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Sampdoria,2025-02-12,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Simone Conti,Midfielder,AC Milan,2025-02-19,1,0,2,3,1,0,1,5,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Juventus,2025-02-26,0,0,3,2,0,0,2,4,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Inter Milan,2025-03-05,0,1,2,3,1,1,1,3,2,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Simone Conti,Midfielder,AS Roma,2025-03-12,1,0,1,2,0,1,1,2,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Napoli,2025-03-19,0,0,2,1,0,1,2,5,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Lazio,2025-03-26,1,1,2,1,0,0,1,4,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Simone Conti,Midfielder,Torino,2025-04-02,0,1,1,2,1,0,1,4,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0
+Simone Conti,Midfielder,Udinese,2025-04-09,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Simone Conti,Midfielder,Fiorentina,2025-04-16,1,0,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Simone Conti,Midfielder,Sampdoria,2025-04-23,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+
+Davide Ferraro,Defender,AS Roma,2025-01-01,0,0,4,0,0,0,0,1,1,0,1,0,0,1,3,4,1,0,0,0,0,0,0
+Davide Ferraro,Defender,Napoli,2025-01-08,0,0,5,0,0,0,0,1,1,0,1,0,0,1,3,3,1,0,0,0,0,0,0
+Davide Ferraro,Defender,Lazio,2025-01-15,0,0,6,0,0,0,0,1,2,1,0,0,0,2,4,2,1,1,0,0,0,0,0
+Davide Ferraro,Defender,Torino,2025-01-22,0,0,5,0,0,0,0,1,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
+Davide Ferraro,Defender,Udinese,2025-01-29,0,0,6,1,0,0,0,2,1,1,0,0,1,1,5,3,2,3,0,0,0,0,0
+Davide Ferraro,Defender,Fiorentina,2025-02-05,0,0,7,2,0,0,0,2,2,0,0,0,0,1,4,3,2,2,0,0,0,0,0
+Davide Ferraro,Defender,Sampdoria,2025-02-12,0,0,6,2,0,0,0,2,1,0,1,0,0,1,5,3,2,3,0,0,0,0,0
+Davide Ferraro,Defender,AC Milan,2025-02-19,0,0,4,0,0,0,0,2,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Davide Ferraro,Defender,Juventus,2025-02-26,0,0,5,0,0,0,0,3,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Davide Ferraro,Defender,Inter Milan,2025-03-05,0,0,6,0,0,0,0,2,2,0,0,0,0,0,3,2,1,0,0,0,0,0,0
+Davide Ferraro,Defender,AS Roma,2025-03-12,0,0,5,0,0,0,0,1,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Davide Ferraro,Defender,Napoli,2025-03-19,0,0,6,0,0,0,0,1,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Davide Ferraro,Defender,Lazio,2025-03-26,0,0,6,0,0,0,0,2,2,1,0,0,0,2,4,2,1,1,0,0,0,0,0
+Davide Ferraro,Defender,Torino,2025-04-02,0,0,7,0,0,0,0,2,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
+Davide Ferraro,Defender,Udinese,2025-04-09,0,0,6,1,0,0,0,3,1,1,0,0,1,1,5,3,2,3,0,0,0,0,0
+Davide Ferraro,Defender,Fiorentina,2025-04-16,0,0,7,2,0,0,0,3,2,1,0,0,0,1,4,3,2,2,0,0,0,0,0
+Davide Ferraro,Defender,Sampdoria,2025-04-23,0,0,7,2,0,0,0,3,1,1,1,0,0,1,5,3,2,3,0,0,0,0,0
+
+Lorenzo Greco,Defender,AS Roma,2025-01-01,0,0,5,0,0,0,0,1,1,0,1,0,0,1,3,2,0,0,0,0,0,0,0
+Lorenzo Greco,Defender,Napoli,2025-01-08,0,0,6,0,0,0,0,1,1,0,1,0,0,1,3,2,1,0,0,0,0,0,0
+Lorenzo Greco,Defender,Lazio,2025-01-15,0,0,7,0,0,0,0,1,2,1,0,0,0,2,4,3,1,1,0,0,0,0,0
+Lorenzo Greco,Defender,Torino,2025-01-22,0,0,6,0,0,0,0,1,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
+Lorenzo Greco,Defender,Udinese,2025-01-29,0,0,7,1,0,0,0,2,1,1,0,0,1,1,5,3,2,3,0,0,0,0,0
+Lorenzo Greco,Defender,Fiorentina,2025-02-05,0,0,8,2,0,0,0,2,2,0,0,0,0,1,4,3,2,2,0,0,0,0,0
+Lorenzo Greco,Defender,Sampdoria,2025-02-12,0,0,7,2,0,0,0,2,1,0,1,0,0,1,5,3,2,3,0,0,0,0,0
+Lorenzo Greco,Defender,AC Milan,2025-02-19,0,0,5,0,0,0,0,2,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Lorenzo Greco,Defender,Juventus,2025-02-26,0,0,6,0,0,0,0,3,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Lorenzo Greco,Defender,Inter Milan,2025-03-05,0,0,7,0,0,0,0,2,2,0,0,0,0,0,3,2,1,0,0,0,0,0,0
+Lorenzo Greco,Defender,AS Roma,2025-03-12,0,0,6,0,0,0,0,1,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Lorenzo Greco,Defender,Napoli,2025-03-19,0,0,7,0,0,0,0,1,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Lorenzo Greco,Defender,Lazio,2025-03-26,0,0,7,0,0,0,0,2,2,1,0,0,0,2,4,2,1,1,0,0,0,0,0
+Lorenzo Greco,Defender,Torino,2025-04-02,0,0,8,0,0,0,0,2,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
+Lorenzo Greco,Defender,Udinese,2025-04-09,0,0,7,1,0,0,0,3,1,1,0,0,1,1,5,3,2,3,0,0,0,0,0
+Lorenzo Greco,Defender,Fiorentina,2025-04-16,0,0,8,2,0,0,0,3,2,0,0,0,0,1,4,3,2,2,0,0,0,0,0
+Lorenzo Greco,Defender,Sampdoria,2025-04-23,0,0,8,2,0,0,0,3,1,1,1,0,0,1,5,3,2,3,0,0,0,0,0
+
+Roberto Marino,Goalkeeper,AS Roma,2025-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+Roberto Marino,Goalkeeper,Napoli,2025-01-08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2
+Roberto Marino,Goalkeeper,Lazio,2025-01-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Roberto Marino,Goalkeeper,Torino,2025-01-22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Roberto Marino,Goalkeeper,Udinese,2025-01-29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+Roberto Marino,Goalkeeper,Fiorentina,2025-02-05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1
+Roberto Marino,Goalkeeper,Sampdoria,2025-02-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1
+Roberto Marino,Goalkeeper,AC Milan,2025-02-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2
+Roberto Marino,Goalkeeper,Juventus,2025-02-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+Roberto Marino,Goalkeeper,Inter Milan,2025-03-05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2
+Roberto Marino,Goalkeeper,AS Roma,2025-03-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+Roberto Marino,Goalkeeper,Napoli,2025-03-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2
+Roberto Marino,Goalkeeper,Lazio,2025-03-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Roberto Marino,Goalkeeper,Torino,2025-04-02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Roberto Marino,Goalkeeper,Udinese,2025-04-09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+Roberto Marino,Goalkeeper,Fiorentina,2025-04-16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1
+Roberto Marino,Goalkeeper,Sampdoria,2025-04-23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1
+
+Giulia Fontana,Forward,AS Roma,2025-01-01,0,0,0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Napoli,2025-01-08,1,1,1,2,1,1,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Lazio,2025-01-15,0,0,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Torino,2025-01-22,1,0,1,3,1,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Udinese,2025-01-29,2,1,0,2,2,1,1,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Fiorentina,2025-02-05,0,2,0,3,2,1,1,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Sampdoria,2025-02-12,1,1,0,3,3,1,1,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,AC Milan,2025-02-19,0,0,1,2,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Juventus,2025-02-26,1,0,0,1,0,0,0,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Inter Milan,2025-03-05,1,1,0,2,1,1,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,AS Roma,2025-03-12,0,0,1,2,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Napoli,2025-03-19,2,0,1,3,1,1,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Lazio,2025-03-26,0,1,0,2,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Torino,2025-04-02,1,1,0,3,2,1,1,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Udinese,2025-04-09,1,0,0,2,1,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Fiorentina,2025-04-16,2,1,0,3,2,1,1,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giulia Fontana,Forward,Sampdoria,2025-04-23,1,0,1,3,3,1,1,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Martina De Luca,Midfielder,AS Roma,2025-01-01,1,0,1,2,0,1,1,2,1,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,Napoli,2025-01-08,0,0,3,1,0,1,2,4,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Lazio,2025-01-15,1,1,2,1,0,0,1,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,Torino,2025-01-22,0,1,1,2,1,0,1,3,1,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,Udinese,2025-01-29,1,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Fiorentina,2025-02-05,0,1,1,3,1,1,1,4,2,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Sampdoria,2025-02-12,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,AC Milan,2025-02-19,1,0,2,3,1,0,1,5,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Juventus,2025-02-26,0,1,3,2,0,0,2,4,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Inter Milan,2025-03-05,0,0,2,3,1,1,1,3,2,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,AS Roma,2025-03-12,1,0,1,2,0,1,1,2,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Napoli,2025-03-19,0,0,2,1,0,1,2,5,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Lazio,2025-03-26,1,1,2,1,0,0,1,4,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,Torino,2025-04-02,0,1,1,2,1,0,1,4,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,Udinese,2025-04-09,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Martina De Luca,Midfielder,Fiorentina,2025-04-16,1,0,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Martina De Luca,Midfielder,Sampdoria,2025-04-23,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+
+Claudio Russo,Goalkeeper,AS Roma,2025-01-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0
+Claudio Russo,Goalkeeper,Napoli,2025-01-08,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2
+Claudio Russo,Goalkeeper,Lazio,2025-01-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1
+Claudio Russo,Goalkeeper,Torino,2025-01-22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Claudio Russo,Goalkeeper,Udinese,2025-01-29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+Claudio Russo,Goalkeeper,Fiorentina,2025-02-05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1
+Claudio Russo,Goalkeeper,Sampdoria,2025-02-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1
+Claudio Russo,Goalkeeper,AC Milan,2025-02-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2
+Claudio Russo,Goalkeeper,Juventus,2025-02-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,2
+Claudio Russo,Goalkeeper,Inter Milan,2025-03-05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3
+Claudio Russo,Goalkeeper,AS Roma,2025-03-12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0
+Claudio Russo,Goalkeeper,Napoli,2025-03-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2
+Claudio Russo,Goalkeeper,Lazio,2025-03-26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Claudio Russo,Goalkeeper,Torino,2025-04-02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1
+Claudio Russo,Goalkeeper,Udinese,2025-04-09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1
+Claudio Russo,Goalkeeper,Fiorentina,2025-04-16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1
+Claudio Russo,Goalkeeper,Sampdoria,2025-04-23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1
+
+Valentina Bianchi,Midfielder,AS Roma,2025-01-01,1,0,2,2,0,1,1,2,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Napoli,2025-01-08,0,0,3,1,0,1,1,4,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Lazio,2025-01-15,1,1,2,1,0,0,1,3,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Torino,2025-01-22,0,1,3,2,1,0,1,3,1,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Udinese,2025-01-29,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Fiorentina,2025-02-05,1,1,1,3,1,1,1,4,2,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Sampdoria,2025-02-12,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,AC Milan,2025-02-19,1,0,2,3,1,0,1,5,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Juventus,2025-02-26,0,1,3,2,0,0,2,4,1,0,0,0,0,0,2,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Inter Milan,2025-03-05,0,0,2,3,1,1,1,3,2,1,0,0,0,0,2,2,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,AS Roma,2025-03-12,1,0,1,2,0,1,1,2,1,1,0,0,0,0,2,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Napoli,2025-03-19,0,0,2,1,0,1,2,5,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Lazio,2025-03-26,1,1,2,1,0,0,1,4,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Torino,2025-04-02,0,1,1,2,1,0,1,4,1,0,0,0,0,0,2,2,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Udinese,2025-04-09,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Fiorentina,2025-04-16,1,0,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Valentina Bianchi,Midfielder,Sampdoria,2025-04-23,0,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
