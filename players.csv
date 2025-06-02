@@ -1,0 +1,44 @@
+name,position,opponent,goals,assists,tackles,keyPasses,successfulDribbles,finalthirdpass,progressivecarries,badPasses,fouls,offsides,yellowCards,redCards,ownGoals,unsuccessfulDribbles,interceptions,clearances,aerialDuelsWon,blocks,saves,cleanSheets,crossesStopped,goalsConceded,punchesMissed
+Luca Rossi,Forward,AC Milan,0,0,0,1,0,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Juventus,0,0,1,1,0,0,0,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Inter Milan,0,0,0,1,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,AS Roma,0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Napoli,0,0,0,2,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Lazio,1,1,1,2,1,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Torino,2,0,1,3,1,0,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Udinese,2,1,0,2,2,0,0,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Fiorentina,1,2,0,3,2,0,0,5,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luca Rossi,Forward,Sampdoria,2,1,0,3,3,0,0,6,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Marco Bianchi,Midfielder,AC Milan,0,0,1,1,0,0,1,5,2,1,1,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Juventus,0,1,1,2,0,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Inter Milan,0,0,2,3,1,1,1,3,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,AS Roma,1,0,1,2,0,1,1,4,1,1,0,0,0,0,1,2,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Napoli,0,0,1,1,0,1,1,5,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Lazio,1,1,1,1,0,0,1,4,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Torino,0,1,1,2,1,0,1,4,1,0,0,0,0,0,1,2,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Udinese,0,0,2,2,1,1,1,5,2,1,1,0,0,0,1,2,0,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Fiorentina,0,1,1,3,1,1,1,4,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+Marco Bianchi,Midfielder,Sampdoria,1,0,1,2,0,1,1,6,2,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+
+Alessandro Verdi,Defender,AC Milan,0,0,3,0,0,0,0,5,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Juventus,0,0,4,0,0,0,0,4,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Inter Milan,0,0,5,0,0,0,0,3,2,0,1,0,0,0,2,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,AS Roma,0,0,5,0,0,0,0,2,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Napoli,0,0,6,0,0,0,0,2,1,0,1,0,0,1,3,1,0,0,0,0,0,0,0
+Alessandro Verdi,Defender,Lazio,0,0,6,0,0,0,0,2,2,1,0,0,0,2,4,2,1,1,0,0,0,0,0
+Alessandro Verdi,Defender,Torino,0,0,7,0,0,0,0,2,1,0,1,0,0,1,4,2,1,2,0,0,0,0,0
+Alessandro Verdi,Defender,Udinese,0,0,6,1,0,0,0,3,1,3,0,0,1,1,5,3,2,3,0,0,0,0,0
+Alessandro Verdi,Defender,Fiorentina,0,0,7,2,0,0,0,3,2,1,0,0,0,1,4,3,2,2,0,0,0,0,0
+Alessandro Verdi,Defender,Sampdoria,0,0,7,2,0,0,0,3,1,1,1,0,0,1,5,3,2,3,0,0,0,0,0
+
+Gianluca Moro,Goalkeeper,AC Milan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0
+Gianluca Moro,Goalkeeper,Juventus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0
+Gianluca Moro,Goalkeeper,Inter Milan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0
+Gianluca Moro,Goalkeeper,AS Roma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0
+Gianluca Moro,Goalkeeper,Napoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0
+Gianluca Moro,Goalkeeper,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0
+Gianluca Moro,Goalkeeper,Torino,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0
+Gianluca Moro,Goalkeeper,Udinese,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0
+Gianluca Moro,Goalkeeper,Fiorentina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,1,0
+Gianluca Moro,Goalkeeper,Sampdoria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,1,0
