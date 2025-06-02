@@ -4,6 +4,8 @@
 #include <memory>
 #include <map>
 #include <string>
+#include <ctime>
+#include <stdexcept>
 
 #include "Rating.h"
 #include "ForwardRating.h"
@@ -22,6 +24,12 @@ public:
 
     void saveRatingsToCSV(const std::string& filename) const;
 
+    double getAverageRatingLastDays(const std::string& playerName, int lookbackDays);
+
+    static int parseDateToDays(const std::string& dateStr);
+
+    static int getTodayInDays();
+
 
 private:
     std::unique_ptr<Rating> overrideStrat;
@@ -32,6 +40,7 @@ private:
     GoalkeeperRating keepStrat;
 
     struct MatchRating {
+        int    dateDays = 0;
         std::string position;
         double      autoScore;
         bool        hasUserScore;

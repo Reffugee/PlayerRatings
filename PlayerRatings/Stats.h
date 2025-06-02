@@ -2,6 +2,7 @@
 #define STATS_H
 
 struct Stats {
+    std::string matchDate;
     // positive
     int goals = 0;
     int assists = 0;

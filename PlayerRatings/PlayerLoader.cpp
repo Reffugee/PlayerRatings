@@ -30,10 +30,10 @@ vector<Player> loadPlayers(const string& filename) {
     }
 
 
-    if (headers.size() < 4)
-        throw runtime_error("Need header: name,position,opponent,<at least one stat>");
+    if (headers.size() < 5)
+        throw runtime_error("Need header: name,position,opponent,date,<at least one stat>");
 
-    const size_t STAT_START = 3;  // index 0=name,1=position,2=opponent
+    const size_t STAT_START = 4;  // index 0=name,1=position,2=opponent,3=date
 
     static const unordered_map<string, int Stats::*> statMap = {
         {"goals",&Stats::goals}, {"assists",&Stats::assists},
@@ -79,8 +79,10 @@ vector<Player> loadPlayers(const string& filename) {
         const string& name = cells[0];
         const string& pos  = cells[1];
         const string& opp  = cells[2];
+        const string& date = cells[3];
 
         Stats S;
+        S.matchDate = date;
         for (size_t i = STAT_START; i < cells.size(); ++i) {
             if (colMember[i]) {
                 S.*(colMember[i]) = stoi(cells[i]);
